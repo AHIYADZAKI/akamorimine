@@ -1,0 +1,2 @@
+# akamorimine
+minecraft server
